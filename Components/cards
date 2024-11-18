@@ -1,0 +1,38 @@
+<div class="cards">
+  <!-- Texts Section -->
+  <div class="texts">
+    <h1 class="header-card">Why get vaccinated today?</h1>
+    <p class="pargraph-card">
+      Magna adipiscing at elit at ornare lectus nibh lorem. Ac, sed ac lorem
+      pellentesque vestibulum risus matti. In molestie condimentum malesuada
+      non.
+    </p>
+  </div>
+
+  <!-- Card One -->
+  <div class="card-one">
+    <svg class="icon">
+      <use xlink:href="./images/SVGSprite.svg#shield"></use>
+    </svg>
+    <h3>Protects your immune system against viruses</h3>
+    <p>
+      Velit ut consectetur mauris, orci amet, faucibus. Sit turpis fringilla
+      ipsum pretium, dictum. Dolor eget vel nulla lorem ac.
+    </p>
+    <h3 class="read-more">Read More</h3>
+  </div>
+  <div class="card card-tow">
+    <svg class="icon">
+      <use xlink:href="./images/SVGSprite.svg#shield"></use>
+    </svg>
+    <h3>Minimize the spread of the Virus</h3>
+    <h4 class="read-more">Read More</h4>
+  </div>
+  <div class="card card-tow">
+    <svg class="icon">
+      <use xlink:href="./images/SVGSprite.svg#shield"></use>
+    </svg>
+    <h3>Minimize the spread of the Virus</h3>
+    <h4 class="read-more">Read More</h4>
+  </div>
+</div>

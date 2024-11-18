@@ -1,0 +1,24 @@
+<div class="footer-div">
+  <h1 class="site-title">Vaccination.ng</h1>
+  <div class="end-footer">
+  
+    <h2>home</h2>
+    <h2>Services</h2>
+    <h2>Schedule</h2>
+    <h2>Contact us</h2>
+  
+  </div>
+  <div >
+    <svg class="icon">
+      <use xlink:href="./images/SVGSprite.svg#logo-Twitter"></use>
+    </svg>
+    <svg class="icon">
+      <use xlink:href="./images/SVGSprite.svg#logo-Instagram"></use>
+    </svg>
+    <svg class="icon">
+      <use xlink:href="./images/SVGSprite.svg#logo-Facebook"></use>
+    </svg>
+  </div>
+</div>
+
+      </footer>
