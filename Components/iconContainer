@@ -1,0 +1,5 @@
+ <div class="icon-container">
+          <svg>
+            <use xlink:href="./images/SVGSprite.svg#menu_24dp_5F6368_FILL0_wght400_GRAD0_opsz24"></use>
+          </svg>
+        </div>
